@@ -1,0 +1,25 @@
+.input-area {
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+  
+}
+
+
+.text-area {
+margin: 0 auto;
+display: flex;
+align-items: center;
+justify-content: center;
+padding: 5px;
+font-size: 30px;
+
+}
+
+.box-area {
+margin: 0 auto;
+display: flex;
+padding: 5px;
+}
